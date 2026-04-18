@@ -1,1 +1,0 @@
-# finstream-trade-platform
