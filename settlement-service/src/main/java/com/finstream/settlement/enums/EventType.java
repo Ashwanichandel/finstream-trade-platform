@@ -1,0 +1,10 @@
+package com.finstream.settlement.enums;
+
+public enum EventType {
+    SETTLEMENT_SCHEDULED,
+    SETTLEMENT_RESERVED,
+    SETTLEMENT_PARTIAL,
+    SETTLEMENT_COMPLETED,
+    SETTLEMENT_FAILED,
+    SETTLEMENT_RECONCILE
+}
